@@ -1,3 +1,7 @@
 # make a header
 
 I added a h1 header
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+I added an image
